@@ -116,4 +116,4 @@ Data Analyst | Product Analyst | Business Analyst Opportunities
 
 GitHub: Available on Profile
 
-LinkedIn: Coming Soon
+LinkedIn: Available on Profile
