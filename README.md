@@ -2,9 +2,9 @@
 
 ## About Me
 
-Aspiring Data Analyst skilled in SQL, Excel, Power BI, DAX, and Mixpanel.
+Aspiring Data Analyst with hands-on experience in SQL, Excel, Power BI, DAX, and Product Analytics.
 
-I have built end-to-end analytics projects covering Product Analytics, SaaS Analytics, Funnel Analysis, Customer Segmentation, Churn Analysis, Retention Analysis, and A/B Testing.
+Built 5 end-to-end analytics projects within two months of focused learning, covering Product Analytics, SaaS Analytics, Funnel Analysis, Customer Analytics, Churn Analysis, Retention Analysis, and A/B Testing.
 
 My focus is on transforming raw data into actionable business insights through dashboards, KPI development, and data-driven decision making.
 
