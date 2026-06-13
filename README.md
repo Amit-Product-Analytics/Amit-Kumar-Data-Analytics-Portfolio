@@ -1,4 +1,3 @@
-
 # Amit Kumar Khushwaha | Data Analytics Portfolio
 
 ## About Me
@@ -33,6 +32,18 @@ My focus is on transforming raw data into actionable business insights through d
 * Retention Analysis
 * SaaS Analytics
 * A/B Testing
+
+---
+
+## Project Portfolio
+
+| Project                       | Domain                    | Skills                                |
+| ----------------------------- | ------------------------- | ------------------------------------- |
+| Netflix Product Analytics     | Product Analytics         | Churn, Engagement, Content Analytics  |
+| E-Commerce Funnel Analytics   | Funnel Analysis           | Conversion, Customer Journey          |
+| Superstore Customer Analytics | Customer Analytics        | RFM, Retention, Segmentation          |
+| SaaS CRM Analytics            | SaaS Analytics            | MRR, ARR, ARPU, Churn                 |
+| A/B Testing Dashboard         | Experimentation Analytics | Conversion Lift, Statistical Analysis |
 
 ---
 
@@ -72,6 +83,23 @@ My focus is on transforming raw data into actionable business insights through d
 
 ---
 
+## Analytics Skills Demonstrated
+
+* SQL Querying & Data Extraction
+* Data Cleaning & Transformation
+* Power BI Dashboard Development
+* DAX Measure Creation
+* Product Analytics
+* Funnel Analysis
+* Churn & Retention Analysis
+* Customer Segmentation (RFM)
+* SaaS Metrics (MRR, ARR, ARPU)
+* A/B Testing & Experiment Analysis
+* KPI Development
+* Business Insights & Data Storytelling
+
+---
+
 ## Tools Used
 
 SQL | Excel | Power BI | DAX | Mixpanel
@@ -86,5 +114,6 @@ Data Analyst | Product Analyst | Business Analyst Opportunities
 
 ## Contact
 
-GitHub Profile Under Development
-LinkedIn Profile Coming Soon
+GitHub: Available on Profile
+
+LinkedIn: Coming Soon
