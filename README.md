@@ -2,24 +2,31 @@
 
 ## About Me
 
-Aspiring Data Analyst with hands-on experience in SQL, Excel, Power BI, DAX, and Product Analytics.
+Aspiring Data Analyst with hands-on experience in SQL, Python, Pandas, NumPy, Excel, Power BI, DAX, and Product Analytics.
 
-Built 5 end-to-end analytics projects within two months of focused learning, covering Product Analytics, SaaS Analytics, Funnel Analysis, Customer Analytics, Churn Analysis, Retention Analysis, and A/B Testing.
+Built 6 end-to-end analytics projects covering Product Analytics, SaaS Analytics, Funnel Analysis, Customer Analytics, Churn Analysis, Retention Analysis, A/B Testing, and Data Cleaning using Python.
 
-My focus is on transforming raw data into actionable business insights through dashboards, KPI development, and data-driven decision making.
+Passionate about transforming raw data into actionable business insights through data cleaning, analysis, visualization, KPI development, and data-driven decision-making.
 
 ---
 
 ## Technical Skills
 
+### Programming & Data Analysis
+
+* Python
+* Pandas
+* NumPy
+* SQL
+
 ### Analytics & BI
 
-* SQL
 * Excel
 * Power BI
 * DAX
+* Tableau
 * Mixpanel
-* Data Cleaning
+* Power Query
 * Data Modeling
 
 ### Analytics Domains
@@ -30,20 +37,23 @@ My focus is on transforming raw data into actionable business insights through d
 * Revenue Analytics
 * Churn Analysis
 * Retention Analysis
+* Cohort Analysis
 * SaaS Analytics
 * A/B Testing
+* Customer Segmentation (RFM)
 
 ---
 
 ## Project Portfolio
 
-| Project                       | Domain                    | Skills                                |
-| ----------------------------- | ------------------------- | ------------------------------------- |
-| Netflix Product Analytics     | Product Analytics         | Churn, Engagement, Content Analytics  |
-| E-Commerce Funnel Analytics   | Funnel Analysis           | Conversion, Customer Journey          |
-| Superstore Customer Analytics | Customer Analytics        | RFM, Retention, Segmentation          |
-| SaaS CRM Analytics            | SaaS Analytics            | MRR, ARR, ARPU, Churn                 |
-| A/B Testing Dashboard         | Experimentation Analytics | Conversion Lift, Statistical Analysis |
+| Project                                 | Domain                    | Skills                                |
+| --------------------------------------- | ------------------------- | ------------------------------------- |
+| Netflix Product Analytics Dashboard     | Product Analytics         | Churn, Engagement, Content Analytics  |
+| E-Commerce Funnel Analytics Dashboard   | Funnel Analysis           | Conversion, Customer Journey          |
+| Superstore Customer Analytics Dashboard | Customer Analytics        | RFM, Retention, Segmentation          |
+| SaaS CRM Analytics Dashboard            | SaaS Analytics            | MRR, ARR, ARPU, Churn                 |
+| A/B Testing Analytics Dashboard         | Experimentation Analytics | Conversion Lift, Statistical Analysis |
+| Python Data Cleaning & Analysis Project | Data Cleaning & EDA       | Pandas, NumPy, Data Validation        |
 
 ---
 
@@ -55,18 +65,21 @@ My focus is on transforming raw data into actionable business insights through d
 * Churn Analysis
 * User Engagement Analysis
 * Content Performance Analysis
+* KPI Dashboard Development
 
 ### E-Commerce Funnel Analytics Dashboard
 
 * Funnel Analysis
 * Conversion Analysis
 * Customer Journey Analytics
+* Revenue Optimization
 
 ### Superstore Customer Analytics Dashboard
 
 * RFM Analysis
 * Customer Segmentation
 * Retention Analysis
+* Customer Profitability Analysis
 
 ### SaaS CRM Analytics Dashboard
 
@@ -74,23 +87,40 @@ My focus is on transforming raw data into actionable business insights through d
 * ARR Analysis
 * ARPU Analysis
 * Churn Analytics
+* Retention Metrics
 
-### A/B Testing Performance Dashboard
+### A/B Testing Analytics Dashboard
 
 * Experiment Analysis
 * Conversion Analysis
 * Statistical Comparison
+* Product Decision Support
+
+### Python Data Cleaning & Analysis Project
+
+* Data Cleaning with Pandas
+* Missing Value Treatment
+* Duplicate Handling
+* Data Type Conversion
+* Data Validation
+* Exploratory Data Analysis (EDA)
+* NumPy-Based Calculations
 
 ---
 
 ## Analytics Skills Demonstrated
 
 * SQL Querying & Data Extraction
-* Data Cleaning & Transformation
+* Python Data Analysis
+* Pandas Data Cleaning
+* NumPy Data Processing
+* Data Transformation
+* Exploratory Data Analysis (EDA)
 * Power BI Dashboard Development
 * DAX Measure Creation
 * Product Analytics
 * Funnel Analysis
+* Cohort Analysis
 * Churn & Retention Analysis
 * Customer Segmentation (RFM)
 * SaaS Metrics (MRR, ARR, ARPU)
@@ -102,18 +132,31 @@ My focus is on transforming raw data into actionable business insights through d
 
 ## Tools Used
 
-SQL | Excel | Power BI | DAX | Mixpanel
+Python | Pandas | NumPy | SQL | Excel | Power BI | DAX | Tableau | Mixpanel
 
 ---
 
 ## Currently Seeking
 
-Data Analyst | Product Analyst | Business Analyst Opportunities
+* Data Analyst Intern
+* Data Analyst
+* Product Analyst
+* Business Analyst
+* Reporting Analyst
+* Power BI Developer
 
 ---
 
 ## Contact
 
-GitHub: Available on Profile
+📧 Email: [amitkhushwaha921@gmail.com](mailto:amitkhushwaha921@gmail.com)
 
-LinkedIn: Available on Profile
+🔗 LinkedIn: Available on Profile
+
+💻 GitHub: Available on Profile
+
+---
+
+### Motto
+
+"Turning Data into Decisions through Analytics, Visualization, and Business Insights."
