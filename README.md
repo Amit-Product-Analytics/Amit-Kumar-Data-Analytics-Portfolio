@@ -1,155 +1,152 @@
-# Amit Kumar Khushwaha | Data Analytics Portfolio
+# Amit Kumar Khushwaha | Data Analytics & Product Analytics Portfolio
 
 ## About Me
 
-Aspiring Data Analyst with hands-on experience in SQL, Python, Pandas, NumPy, Excel, Power BI, DAX, and Product Analytics.
+Aspiring Data Analyst and Product Analyst with hands-on experience in SQL, Python, Pandas, NumPy, Excel, Power BI, DAX, and Product Analytics.
 
-Built 6 end-to-end analytics projects covering Product Analytics, SaaS Analytics, Funnel Analysis, Customer Analytics, Churn Analysis, Retention Analysis, A/B Testing, and Data Cleaning using Python.
+Built multiple end-to-end analytics projects that simulate real-world business scenarios, covering Product Analytics, Customer Analytics, SaaS Analytics, Funnel Analysis, Cohort Analysis, Churn Analysis, RFM Segmentation, A/B Testing, and Data Cleaning.
 
-Passionate about transforming raw data into actionable business insights through data cleaning, analysis, visualization, KPI development, and data-driven decision-making.
-
----
-
-## Technical Skills
-
-### Programming & Data Analysis
-
-* Python
-* Pandas
-* NumPy
-* SQL
-
-### Analytics & BI
-
-* Excel
-* Power BI
-* DAX
-* Tableau
-* Mixpanel
-* Power Query
-* Data Modeling
-
-### Analytics Domains
-
-* Product Analytics
-* Funnel Analysis
-* Customer Analytics
-* Revenue Analytics
-* Churn Analysis
-* Retention Analysis
-* Cohort Analysis
-* SaaS Analytics
-* A/B Testing
-* Customer Segmentation (RFM)
+Passionate about transforming raw data into actionable business insights through data cleaning, SQL analysis, dashboard development, KPI tracking, and data-driven decision-making.
 
 ---
 
-## Project Portfolio
+# Technical Skills
 
-| Project                                 | Domain                    | Skills                                |
-| --------------------------------------- | ------------------------- | ------------------------------------- |
-| Netflix Product Analytics Dashboard     | Product Analytics         | Churn, Engagement, Content Analytics  |
-| E-Commerce Funnel Analytics Dashboard   | Funnel Analysis           | Conversion, Customer Journey          |
-| Superstore Customer Analytics Dashboard | Customer Analytics        | RFM, Retention, Segmentation          |
-| SaaS CRM Analytics Dashboard            | SaaS Analytics            | MRR, ARR, ARPU, Churn                 |
-| A/B Testing Analytics Dashboard         | Experimentation Analytics | Conversion Lift, Statistical Analysis |
-| Python Data Cleaning & Analysis Project | Data Cleaning & EDA       | Pandas, NumPy, Data Validation        |
+## Programming & Data Analysis
 
----
+- Python
+- Pandas
+- NumPy
+- SQL (MySQL)
 
-## Featured Projects
+## Business Intelligence & Visualization
 
-### Netflix Product Analytics Dashboard
+- Microsoft Excel
+- Power BI
+- DAX
+- Tableau
+- Power Query
+- Mixpanel
 
-* Revenue Analysis
-* Churn Analysis
-* User Engagement Analysis
-* Content Performance Analysis
-* KPI Dashboard Development
+## Product Analytics
 
-### E-Commerce Funnel Analytics Dashboard
-
-* Funnel Analysis
-* Conversion Analysis
-* Customer Journey Analytics
-* Revenue Optimization
-
-### Superstore Customer Analytics Dashboard
-
-* RFM Analysis
-* Customer Segmentation
-* Retention Analysis
-* Customer Profitability Analysis
-
-### SaaS CRM Analytics Dashboard
-
-* MRR Analysis
-* ARR Analysis
-* ARPU Analysis
-* Churn Analytics
-* Retention Metrics
-
-### A/B Testing Analytics Dashboard
-
-* Experiment Analysis
-* Conversion Analysis
-* Statistical Comparison
-* Product Decision Support
-
-### Python Data Cleaning & Analysis Project
-
-* Data Cleaning with Pandas
-* Missing Value Treatment
-* Duplicate Handling
-* Data Type Conversion
-* Data Validation
-* Exploratory Data Analysis (EDA)
-* NumPy-Based Calculations
+- Funnel Analysis
+- Cohort Analysis
+- Churn Analysis
+- Retention Analysis
+- Customer Segmentation (RFM)
+- Customer Journey Analysis
+- KPI Development
+- Revenue Analytics
+- Product Performance Analysis
+- SaaS Metrics (MRR, ARR, ARPU)
+- A/B Testing
 
 ---
 
-## Analytics Skills Demonstrated
+# Portfolio Projects
 
-* SQL Querying & Data Extraction
-* Python Data Analysis
-* Pandas Data Cleaning
-* NumPy Data Processing
-* Data Transformation
-* Exploratory Data Analysis (EDA)
-* Power BI Dashboard Development
-* DAX Measure Creation
-* Product Analytics
-* Funnel Analysis
-* Cohort Analysis
-* Churn & Retention Analysis
-* Customer Segmentation (RFM)
-* SaaS Metrics (MRR, ARR, ARPU)
-* A/B Testing & Experiment Analysis
-* KPI Development
-* Business Insights & Data Storytelling
+| Project | Domain | Key Skills |
+|---------|--------|------------|
+| Product Analyst Workflow | Product Analytics | SQL, Funnel Analysis, Cohort Analysis, RFM, Churn, KPI Dashboard |
+| Netflix Product Analytics Dashboard | Product Analytics | Customer Engagement, Revenue, Content Analytics |
+| E-Commerce Funnel Analytics Dashboard | Funnel Analytics | Conversion Funnel, Customer Journey |
+| Superstore Customer Analytics Dashboard | Customer Analytics | RFM, Customer Segmentation, Retention |
+| SaaS CRM Analytics Dashboard | SaaS Analytics | MRR, ARR, ARPU, Churn |
+| A/B Testing Analytics Dashboard | Experiment Analytics | Conversion Analysis, Statistical Comparison |
+| Python Data Cleaning & Analysis | Data Cleaning | Pandas, NumPy, Data Validation, EDA |
 
 ---
 
-## Tools Used
+# Featured Project
 
-Python | Pandas | NumPy | SQL | Excel | Power BI | DAX | Tableau | Mixpanel
+## Product Analyst Workflow
+
+A real-world Product Analytics project built to replicate the workflow of a Product Analyst using SQL and Power BI.
+
+### Project Highlights
+
+- SQL Data Cleaning & Transformation
+- KPI Development
+- Funnel Analysis
+- Cohort Retention Analysis
+- RFM Customer Segmentation
+- Churn Analysis
+- Revenue Analysis
+- Customer Analytics
+- Interactive Power BI Dashboards
+- Business Insights & Recommendations
 
 ---
 
-## Currently Seeking
+# Analytics Skills Demonstrated
 
-* Data Analyst Intern
-* Data Analyst
-* Product Analyst
-* Business Analyst
-* Reporting Analyst
-* Power BI Developer
+### SQL
+
+- Data Cleaning
+- Joins
+- Window Functions
+- Common Table Expressions (CTEs)
+- KPI Calculation
+- Query Optimization
+
+### Product Analytics
+
+- Funnel Analysis
+- Cohort Analysis
+- Churn Analysis
+- Customer Retention
+- RFM Segmentation
+- Revenue Analytics
+- Product Performance Analysis
+
+### Power BI
+
+- Data Modeling
+- DAX Measures
+- Dashboard Development
+- KPI Reporting
+- Business Storytelling
+
+### Python
+
+- Pandas Data Cleaning
+- NumPy Analysis
+- Missing Value Treatment
+- Duplicate Handling
+- Data Validation
+- Exploratory Data Analysis (EDA)
 
 ---
 
-## Contact
+# Tools & Technologies
 
-📧 Email: [amitkhushwaha921@gmail.com](mailto:amitkhushwaha921@gmail.com)
+- SQL (MySQL)
+- Python
+- Pandas
+- NumPy
+- Microsoft Excel
+- Power BI
+- DAX
+- Tableau
+- Mixpanel
+- Power Query
+
+---
+
+# Currently Seeking
+
+- Data Analyst
+- Product Analyst
+- Business Analyst
+- Reporting Analyst
+- Power BI Developer
+
+---
+
+# Contact
+
+📧 Email: **amitkhushwaha921@gmail.com**
 
 🔗 LinkedIn: Available on Profile
 
@@ -157,6 +154,6 @@ Python | Pandas | NumPy | SQL | Excel | Power BI | DAX | Tableau | Mixpanel
 
 ---
 
-### Motto
+## Motto
 
-"Turning Data into Decisions through Analytics, Visualization, and Business Insights."
+> **Turning Data into Business Decisions through Analytics, Visualization, and Data Storytelling.**
