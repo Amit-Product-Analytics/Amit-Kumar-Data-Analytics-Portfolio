@@ -2,11 +2,11 @@
 
 ## About Me
 
-Aspiring Data Analyst and Product Analyst with hands-on experience in SQL, Python, Pandas, NumPy, Excel, Power BI, DAX, and Product Analytics.
+Aspiring Product Analyst and Data Analyst with hands-on experience building **8+ end-to-end Analytics and Data Engineering projects** using SQL, Python, Pandas, MySQL, Excel, Power BI, and DAX.
 
-Built multiple end-to-end analytics projects that simulate real-world business scenarios, covering Product Analytics, Customer Analytics, SaaS Analytics, Funnel Analysis, Cohort Analysis, Churn Analysis, RFM Segmentation, A/B Testing, and Data Cleaning.
+Experienced in Product Analytics, Funnel Analysis, Cohort Analysis, Retention Analysis, Churn Analysis, Customer Segmentation (RFM), A/B Testing, ETL Automation, and KPI Reporting.
 
-Passionate about transforming raw data into actionable business insights through data cleaning, SQL analysis, dashboard development, KPI tracking, and data-driven decision-making.
+Passionate about transforming raw data into actionable business insights through analytics, dashboard development, automation, and data-driven decision-making.
 
 ---
 
@@ -42,6 +42,14 @@ Passionate about transforming raw data into actionable business insights through
 - SaaS Metrics (MRR, ARR, ARPU)
 - A/B Testing
 
+  ## Data Engineering
+
+- ETL
+- Data Cleaning
+- Data Validation
+- Automation
+- Streamlit
+
 ---
 
 # Portfolio Projects
@@ -49,6 +57,7 @@ Passionate about transforming raw data into actionable business insights through
 | Project | Domain | Key Skills |
 |---------|--------|------------|
 | Product Analyst Workflow | Product Analytics | SQL, Funnel Analysis, Cohort Analysis, RFM, Churn, KPI Dashboard |
+| Hospital ETL Automation | Data Engineering | Python, Pandas, MySQL, ETL, Streamlit |
 | Netflix Product Analytics Dashboard | Product Analytics | Customer Engagement, Revenue, Content Analytics |
 | E-Commerce Funnel Analytics Dashboard | Funnel Analytics | Conversion Funnel, Customer Journey |
 | Superstore Customer Analytics Dashboard | Customer Analytics | RFM, Customer Segmentation, Retention |
@@ -60,9 +69,17 @@ Passionate about transforming raw data into actionable business insights through
 
 # Featured Project
 
-## Product Analyst Workflow
+### 🚀 Product Analyst Workflow
+An end-to-end Product Analytics project demonstrating the complete Product Analyst workflow—from SQL-based data preparation and KPI analysis to interactive Power BI dashboards and business recommendations.
 
-A real-world Product Analytics project built to replicate the workflow of a Product Analyst using SQL and Power BI.
+### 🏥 Hospital ETL Automation
+Automated ETL pipeline for healthcare data using Python, Pandas, MySQL, Power BI and Streamlit.
+
+### 🎬 Netflix Product Analytics Dashboard
+Analyzed user engagement, retention, and content performance using SQL, Power BI, and DAX.
+
+### 💼 SaaS CRM Analytics Dashboard
+Built executive dashboards for subscription metrics including MRR, ARR, ARPU, churn, and retention.
 
 ### Project Highlights
 
@@ -111,10 +128,10 @@ A real-world Product Analytics project built to replicate the workflow of a Prod
 ### Python
 
 - Pandas Data Cleaning
-- NumPy Analysis
-- Missing Value Treatment
-- Duplicate Handling
+- ETL Automation
 - Data Validation
+- Data Transformation
+- NumPy Analysis
 - Exploratory Data Analysis (EDA)
 
 ---
@@ -134,13 +151,11 @@ A real-world Product Analytics project built to replicate the workflow of a Prod
 
 ---
 
-# Currently Seeking
-
-- Data Analyst
 - Product Analyst
+- Data Analyst
 - Business Analyst
-- Reporting Analyst
-- Power BI Developer
+- Growth Analyst
+- Analytics Engineer (Entry Level)
 
 ---
 
